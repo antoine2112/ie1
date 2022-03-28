@@ -1,0 +1,84 @@
+code {
+    background: #73bcec;
+ 
+    border-radius: 6px;
+    color: #fff;
+    display: block;
+    font-family: 'Anton', sans-serif;
+    font-size: 2rem;
+    padding: 24px 15px;
+    text-align: center;
+    border: 2px solid #060bfa;
+    display:flex
+}
+
+}
+header{
+    color: darkorchid;
+    font-family: 'Anton', sans-serif;
+    display:flex
+
+}
+nav{
+    background-color: #3d1937;
+    color: cornsilk;
+    font-family: 'Anton', sans-serif;
+    display:flex;
+    padding: 15px 15px;
+
+    
+}
+section{
+    background-color: aliceblue;
+    color: #000000;
+    font-family: 'Anton', sans-serif;
+    display:flex;
+    width: 400px;
+}
+
+button{
+    background-color: #000000;
+    color: aliceblue;
+    display:flex
+}
+h3{
+    
+    color: aliceblue;
+    display:flex
+}
+h4{
+    
+    color: #000000;
+    display:flex
+}
+h1{
+    color: #af2b99;
+}
+
+aside{
+    background-color: #af2b99;
+    color: aliceblue;
+    display:flex;
+    padding: 150px 2px;
+    width: 400px;
+
+
+}
+footer {
+    margin: 0 1.5% 24px 1.5%;
+    display:flex
+}
+section {
+    background-color: #fff;
+    color: #000000;
+    display:flex;
+    padding: 150px 2px;
+}
+footer {
+    clear: both;
+    margin-bottom: 0;
+    display:flex
+}
+div{
+    background-color: #000000;
+}
